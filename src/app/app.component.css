@@ -4,7 +4,7 @@ ul {
   padding: 0;
   overflow: hidden;
   border: 1px solid #e7e7e7;
-  background-color: #f3f3f3;
+  background-color: black;
 }
 
 .nav {
@@ -13,7 +13,7 @@ ul {
 
 .nav a {
   display: block;
-  color: #666;
+  color:white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -23,7 +23,7 @@ ul {
   background-color: #ddd;
 }
 body{
-  background-color: orange;
+  background-color: whitesmoke;
 }
 .nav a.active {
   color: white;
